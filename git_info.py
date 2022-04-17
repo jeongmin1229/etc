@@ -42,6 +42,10 @@ git push -u origin main
 
 반대로 코드를 내 컴퓨터로 가져오는 방법
 git clone 주소
+
+만약 남의 코드에 올리고 싶다.
+그런데 내가 최종 승인자가 아니라면
+git checkout -b '이름'
 '''
 
 
