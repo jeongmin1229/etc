@@ -46,6 +46,7 @@ git clone 주소
 만약 남의 코드에 올리고 싶다.
 그런데 내가 최종 승인자가 아니라면
 git checkout -b '이름'
+git push origin 
 '''
 
 
