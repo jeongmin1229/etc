@@ -28,3 +28,11 @@
     ]
 }
 '''
+
+'''
+json 경로 : View -> command palette -> tasks :configure tasks -> create tasks.json.file -> other
+'''
+
+'''
+깃 토큰 : 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
+'''
