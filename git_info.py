@@ -41,6 +41,7 @@ git commit -m “second commit”  히스토리를 만들어 준다.
 git push -u origin main
 
 반대로 코드를 내 컴퓨터로 가져오는 방법
+git clone 주소
 '''
 
 
