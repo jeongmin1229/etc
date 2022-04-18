@@ -47,6 +47,9 @@ git clone 주소
 그런데 내가 최종 승인자가 아니라면
 git checkout -b '이름'
 git push origin 
+
+사용자 변경하는 법
+git checkout -m '이름'
 '''
 
 
