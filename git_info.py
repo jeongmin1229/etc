@@ -50,7 +50,11 @@ git push origin
 
 사용자 변경하는 법
 git checkout -m '이름'
+
+깃 폴더 삭제
+rm -rf .git
 '''
+
 
 
 
